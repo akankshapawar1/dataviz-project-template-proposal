@@ -58,7 +58,7 @@ I’ve created a proof of concept visualization of this data.
 
 ## Milestones
 
-Week 1 - Line graph
-Week 2 - Stacked bar graph
-Week 3 - Stacked bar graph with user inputting the number of countries
-Week 4 - Representing the data on a globe instead of a 2D map
+* Week 1 - Line graph
+* Week 2 - Stacked bar graph
+* Week 3 - Stacked bar graph with user inputting the number of countries
+* Week 4 - Representing the data on a globe instead of a 2D map
