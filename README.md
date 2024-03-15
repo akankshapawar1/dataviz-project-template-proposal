@@ -45,12 +45,15 @@ I’ve created a proof of concept visualization of this data.
 
 1. Scatter plot to represent the number of participant countries over the years
   <img width="959" alt="Screenshot 2024-03-14 at 7 32 53 PM" src="https://github.com/akankshapawar1/dataviz-project-template-proposal/assets/42142815/f0fe3ce9-62b6-4fa8-b7e0-3d4c1d1e3d15">
+  https://vizhub.com/akankshapawar1/79c2f4ab4d964ef9bfa9dd31bd2c3ef6 
 
 2. Bar graph representing countries which have won the most medals
    <img width="957" alt="Screenshot 2024-03-14 at 7 32 10 PM" src="https://github.com/akankshapawar1/dataviz-project-template-proposal/assets/42142815/ff7357a0-e666-486d-ab24-e7d9cef864ae">
+   https://vizhub.com/akankshapawar1/c335b9fe5c054be88f76b39e0420f733 
 
 3. World map which displays the number of medals won by that country over the years
   <img width="968" alt="Screenshot 2024-03-14 at 7 26 51 PM" src="https://github.com/akankshapawar1/dataviz-project-template-proposal/assets/42142815/f746913b-5848-4544-915a-1384bcab0a4d">
+  https://vizhub.com/akankshapawar1/ac188a2bc9d047299db6f481ddf34765 
 
 ## Open Questions
 
