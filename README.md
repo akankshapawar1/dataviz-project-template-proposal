@@ -53,7 +53,11 @@ I’ve created a proof of concept visualization of this data.
 
 3. World map which displays the number of medals won by that country over the years
   <img width="968" alt="Screenshot 2024-03-14 at 7 26 51 PM" src="https://github.com/akankshapawar1/dataviz-project-template-proposal/assets/42142815/f746913b-5848-4544-915a-1384bcab0a4d">
-  https://vizhub.com/akankshapawar1/ac188a2bc9d047299db6f481ddf34765 
+  https://vizhub.com/akankshapawar1/ac188a2bc9d047299db6f481ddf34765
+
+4. Line chart with multiple lines
+  <img width="1708" alt="Screenshot 2024-03-21 at 9 23 54 PM" src="https://github.com/akankshapawar1/dataviz-project-template-proposal/assets/42142815/fcc07c27-c462-4150-9441-c843e5ae7551">
+  https://vizhub.com/akankshapawar1/eda877574f6e4cb4b13bf8ee695aa731 
 
 ## Open Questions
 
