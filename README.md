@@ -59,13 +59,13 @@ I’ve created a proof of concept visualization of this data.
   <img width="1708" alt="Screenshot 2024-03-21 at 9 23 54 PM" src="https://github.com/akankshapawar1/dataviz-project-template-proposal/assets/42142815/fcc07c27-c462-4150-9441-c843e5ae7551">
   https://vizhub.com/akankshapawar1/eda877574f6e4cb4b13bf8ee695aa731 
 
-## Open Questions
-
-1. In my first sketch, I want to give an option to the user to select the number of countries they want on the bar graph. Is there existing example on Vizhub which has done this before?
+5. Line chart with user inputting countries
+   <img width="962" alt="Screenshot 2024-04-04 at 12 19 14 AM" src="https://github.com/akankshapawar1/dataviz-project-template-proposal/assets/42142815/74bf30cd-e8a8-465a-acf1-8b76fad0bf92">
+   https://vizhub.com/akankshapawar1/c39cd5c27a80463781013029ab6800e0 
 
 ## Milestones
 
 * Week 1 - Line graph
-* Week 2 - Stacked bar graph
-* Week 3 - Stacked bar graph with user inputting the number of countries
+* Week 2 - Line graph with user input
+* Week 3 - Stacked bar graph
 * Week 4 - Representing the data on a globe instead of a 2D map
