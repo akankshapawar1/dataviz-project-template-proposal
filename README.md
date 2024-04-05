@@ -78,4 +78,4 @@ I’ve created a proof of concept visualization of this data.
 * Week 1 - World Map
 * Week 2 - Line graph
 * Week 3 - Line graph with user input
-* Week 3 - Stacked bar graph
+* Week 4 - Stacked bar graph
