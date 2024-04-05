@@ -37,6 +37,11 @@ The following tasks and questions will drive the visualization and interaction d
 
 ![WhatsApp Image 2024-03-14 at 7 13 04 PM](https://github.com/akankshapawar1/dataviz-project-template-proposal/assets/42142815/e81b35c3-a9c0-4f0b-843c-221321c3f5af)
 
+I chose to modify stacked bar graph according to the sample available on the VizHub - 
+
+![WhatsApp Image 2024-04-05 at 6 02 29 PM](https://github.com/akankshapawar1/dataviz-project-template-proposal/assets/42142815/40d32a32-e3e9-4144-8c54-23880146b6e6)
+
+
 
 
 ## Prototypes
