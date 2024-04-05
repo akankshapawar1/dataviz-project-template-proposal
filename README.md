@@ -78,4 +78,3 @@ I’ve created a proof of concept visualization of this data.
 * Week 1 - Line graph
 * Week 2 - Line graph with user input
 * Week 3 - Stacked bar graph
-* Week 4 - Representing the data on a globe instead of a 2D map
