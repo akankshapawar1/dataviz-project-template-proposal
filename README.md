@@ -84,3 +84,18 @@ I’ve created a proof of concept visualization of this data.
 * Week 2 - Line graph
 * Week 3 - Line graph with user input
 * Week 4 - Stacked bar graph
+  
+
+## Project Self-Critique and Reprioritization 
+### 1 - Does the visualization answer these questions or facilitate these tasks? 
+    I would say the visualization will answer most of the questions.
+    a. Which are the countries with the highest number of medals? - Answered by World map, Stacked Bar Graph and Regular bar graphs
+    b. How did the country perform over the years? - This is answered by line graph
+    c. Relation between all the countries and number of medals - I don't think this is a good question to base off a visualization off of. 
+    I should rephrase this question better. But for now, this too is answered by world map
+
+### Reprioritization
+
+    I would like to add option to select more than one country in the line chart, so user can compare performances of the countries over the year.
+    I would also like to rearrange the data in stacked bar graph so it ordered.
+    This is based on the feedback I received. I would go through other peer reviews and see if anything might also apply to my vizzes. 
