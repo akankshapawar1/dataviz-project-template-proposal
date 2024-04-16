@@ -103,5 +103,9 @@ I’ve created a proof of concept visualization of this data.
 
 ## Progress made as of April 16 - 
 
-Arranged stacked bar graph according to the total number of medals.
+1. Arranged stacked bar graph according to the total number of medals.
 <img width="1710" alt="Screenshot 2024-04-16 at 2 18 06 PM" src="https://github.com/akankshapawar1/dataviz-project-template-proposal/assets/42142815/a228b054-ac3a-4d61-b3c6-efd2b0fe2166">
+
+2. Added 2 dropdowns to the Viz-
+<img width="1710" alt="Screenshot 2024-04-16 at 2 56 25 PM" src="https://github.com/akankshapawar1/dataviz-project-template-proposal/assets/42142815/7fa6060e-fccb-4c4f-b1f9-a1e0d70414e2">
+
