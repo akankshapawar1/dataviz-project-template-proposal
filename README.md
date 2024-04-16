@@ -99,3 +99,9 @@ I’ve created a proof of concept visualization of this data.
     I would like to add option to select more than one country in the line chart, so user can compare performances of the countries over the year.
     I would also like to rearrange the data in stacked bar graph so it ordered.
     This is based on the feedback I received. I would go through other peer reviews and see if anything might also apply to my vizzes. 
+
+
+## Progress made as of April 16 - 
+
+Arranged stacked bar graph according to the total number of medals.
+<img width="1710" alt="Screenshot 2024-04-16 at 2 18 06 PM" src="https://github.com/akankshapawar1/dataviz-project-template-proposal/assets/42142815/a228b054-ac3a-4d61-b3c6-efd2b0fe2166">
