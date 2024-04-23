@@ -73,9 +73,9 @@ I’ve created a proof of concept visualization of this data.
    <img width="962" alt="Screenshot 2024-04-04 at 12 19 14 AM" src="https://github.com/akankshapawar1/dataviz-project-template-proposal/assets/42142815/74bf30cd-e8a8-465a-acf1-8b76fad0bf92">
 
 
-8. [Interactive Stacked Bar Graph](https://vizhub.com/akankshapawar1/cbff7b74e11e4945a386dbcf48b2d828)
+8. Interactive Stacked Bar Graph
    
-  <img width="1710" alt="Screenshot 2024-04-05 at 3 26 06 PM" src="https://github.com/akankshapawar1/dataviz-project-template-proposal/assets/42142815/c4ddf769-20f7-4565-ab65-da4d077e22e2">
+  <a href='https://vizhub.com/akankshapawar1/cbff7b74e11e4945a386dbcf48b2d828'><img width="1710" alt="Screenshot 2024-04-05 at 3 26 06 PM" src="https://github.com/akankshapawar1/dataviz-project-template-proposal/assets/42142815/c4ddf769-20f7-4565-ab65-da4d077e22e2"/></a>
 
     
 ## Milestones
