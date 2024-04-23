@@ -87,7 +87,7 @@ I’ve created a proof of concept visualization of this data.
 
 3. Line chart with 2 user inputs
    
-<a href=''><img width="1710" alt="Screenshot 2024-04-23 at 3 16 42 PM" src="https://github.com/akankshapawar1/dataviz-project-template-proposal/assets/42142815/8bd7826a-5e82-4a7f-86d1-b6f8208ff2cd"/>
+<a href='https://vizhub.com/akankshapawar1/fec41273effa468aa22361b0108880f8'><img width="1710" alt="Screenshot 2024-04-23 at 3 16 42 PM" src="https://github.com/akankshapawar1/dataviz-project-template-proposal/assets/42142815/8bd7826a-5e82-4a7f-86d1-b6f8208ff2cd"/>
 </a>
 
   
