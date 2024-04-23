@@ -48,32 +48,32 @@ I chose to modify stacked bar graph according to the sample available on the Viz
 
 I’ve created a proof of concept visualization of this data. 
 
-1. [Scatter plot to represent the number of participant countries over the years](https://vizhub.com/akankshapawar1/79c2f4ab4d964ef9bfa9dd31bd2c3ef6)
+1. Scatter plot to represent the number of participant countries over the years
    
-  <img width="959" alt="Screenshot 2024-03-14 at 7 32 53 PM" src="https://github.com/akankshapawar1/dataviz-project-template-proposal/assets/42142815/f0fe3ce9-62b6-4fa8-b7e0-3d4c1d1e3d15">
+  <a href='https://vizhub.com/akankshapawar1/79c2f4ab4d964ef9bfa9dd31bd2c3ef6'><img width="959" alt="Screenshot 2024-03-14 at 7 32 53 PM" src="https://github.com/akankshapawar1/dataviz-project-template-proposal/assets/42142815/f0fe3ce9-62b6-4fa8-b7e0-3d4c1d1e3d15"/></a>
   
 
-3. [Bar graph representing countries which have won the most medals](https://vizhub.com/akankshapawar1/c335b9fe5c054be88f76b39e0420f733)
+2. Bar graph representing countries which have won the most medals
    
-   <img width="957" alt="Screenshot 2024-03-14 at 7 32 10 PM" src="https://github.com/akankshapawar1/dataviz-project-template-proposal/assets/42142815/ff7357a0-e666-486d-ab24-e7d9cef864ae">
+   <a href='https://vizhub.com/akankshapawar1/c335b9fe5c054be88f76b39e0420f733'><img width="957" alt="Screenshot 2024-03-14 at 7 32 10 PM" src="https://github.com/akankshapawar1/dataviz-project-template-proposal/assets/42142815/ff7357a0-e666-486d-ab24-e7d9cef864ae"/></a>
 
 
-4. [World map which displays the number of medals won by that country over the years](https://vizhub.com/akankshapawar1/ac188a2bc9d047299db6f481ddf34765)
+3. World map which displays the number of medals won by that country over the years
    
-  <img width="968" alt="Screenshot 2024-03-14 at 7 26 51 PM" src="https://github.com/akankshapawar1/dataviz-project-template-proposal/assets/42142815/f746913b-5848-4544-915a-1384bcab0a4d">
+  <a href='https://vizhub.com/akankshapawar1/ac188a2bc9d047299db6f481ddf34765'><img width="968" alt="Screenshot 2024-03-14 at 7 26 51 PM" src="https://github.com/akankshapawar1/dataviz-project-template-proposal/assets/42142815/f746913b-5848-4544-915a-1384bcab0a4d"/></a>
 
 
-5. [Line chart with multiple lines](https://vizhub.com/akankshapawar1/eda877574f6e4cb4b13bf8ee695aa731)
+4. Line chart with multiple lines
    
-  <img width="1708" alt="Screenshot 2024-03-21 at 9 23 54 PM" src="https://github.com/akankshapawar1/dataviz-project-template-proposal/assets/42142815/fcc07c27-c462-4150-9441-c843e5ae7551">
+  <a href='https://vizhub.com/akankshapawar1/eda877574f6e4cb4b13bf8ee695aa731'><img width="1708" alt="Screenshot 2024-03-21 at 9 23 54 PM" src="https://github.com/akankshapawar1/dataviz-project-template-proposal/assets/42142815/fcc07c27-c462-4150-9441-c843e5ae7551"/></a>
   
 
-7. [Line chart with user inputting countries](https://vizhub.com/akankshapawar1/c39cd5c27a80463781013029ab6800e0)
+5. Line chart with user inputting countries
    
-   <img width="962" alt="Screenshot 2024-04-04 at 12 19 14 AM" src="https://github.com/akankshapawar1/dataviz-project-template-proposal/assets/42142815/74bf30cd-e8a8-465a-acf1-8b76fad0bf92">
+   <a href='https://vizhub.com/akankshapawar1/c39cd5c27a80463781013029ab6800e0'><img width="962" alt="Screenshot 2024-04-04 at 12 19 14 AM" src="https://github.com/akankshapawar1/dataviz-project-template-proposal/assets/42142815/74bf30cd-e8a8-465a-acf1-8b76fad0bf92"/></a>
 
 
-8. Interactive Stacked Bar Graph
+6. Interactive Stacked Bar Graph
    
   <a href='https://vizhub.com/akankshapawar1/cbff7b74e11e4945a386dbcf48b2d828'><img width="1710" alt="Screenshot 2024-04-05 at 3 26 06 PM" src="https://github.com/akankshapawar1/dataviz-project-template-proposal/assets/42142815/c4ddf769-20f7-4565-ab65-da4d077e22e2"/></a>
 
