@@ -8,6 +8,7 @@ It has records of medals in Olympic Editions from 1924 to 2018.
 
 Here is one entry from this dataset - 
 
+```
 {
   "Year": 1924,
   "Host_country": "France",
@@ -18,6 +19,7 @@ Here is one entry from this dataset -
   "Silver": 2,
   "Bronze": 1
 }
+```
 
 Dataset link - https://www.kaggle.com/datasets/ramontanoeiro/winter-olympic-medals-1924-2018/data 
 
